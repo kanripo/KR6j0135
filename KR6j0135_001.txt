@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:26:38.610116
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:22
 #+TITLE: 金剛頂經一字頂輪王儀軌音義
 #+PROPERTY: CBETA_ID T19n0958
 #+PROPERTY: ID KR6j0135
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 19, No. 958
 #+PROPERTY: VOL 19
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0135_T_000-0327a>¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0135_T_001-0327a> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.958¶
-
- 金剛頂經一字頂輪王儀軌音義¶
+No. 958¶
+金剛頂經一字頂輪王儀軌音義¶
 ¶
 
 文稽首至是故常歸命。讚曰。此八頌初¶
