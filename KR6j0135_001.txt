@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:26:38.610116
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:22
 #+TITLE: 金剛頂經一字頂輪王儀軌音義
 #+PROPERTY: CBETA_ID T19n0958
 #+PROPERTY: ID KR6j0135
